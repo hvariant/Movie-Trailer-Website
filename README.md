@@ -16,6 +16,10 @@ the movie's trailer.
 2.  To generate and open the webpage run:
 
         `./entertainment_center.py`
+
+    Or:
+        
+        `python2 entertainment_center.py`
    
     This will automatically generate and open in a browser an html file called
     `fresh_tomatoes.html`.
